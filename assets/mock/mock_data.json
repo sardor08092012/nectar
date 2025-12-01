@@ -1,0 +1,95 @@
+{
+    "products": [
+        {
+            "name": "Apples",
+            "quantity": "5 kg",
+            "price": 19.90,
+            "images": [
+                "https://waapple.org/wp-content/uploads/2021/06/Untitled-design-20-e1745534545813-658x677.png",
+                "https://photoshop-kopona.com/uploads/posts/2021-09/1632078322_apple-blossom_001.jpg"
+            ]
+        },
+        {
+            "name": "Bananas",
+            "quantity": "1 kg (4-5 fillets)",
+            "price": 45.50,
+            "images": [
+            
+                "https://pngimg.com/uploads/banana/small/banana_PNG824.png"
+            ]
+        },
+        {
+            "name": "Strawberries",
+            "quantity": "800 g",
+            "price": 6.75,
+            "images": [
+                "https://static.vecteezy.com/system/resources/previews/051/679/529/non_2x/sliced-red-strawberry-fruit-on-transparent-background-free-png.png",
+                "https://pngimg.com/d/strawberry_PNG89.png",
+                "https://www.freepnglogos.com/uploads/strawberry-png/strawberry-soya-protein-drink-bulk-ote-sports-goodness-29.png"
+            ]
+        },
+        {
+            "name": "Blueberries",
+            "quantity": "500 g bag",
+            "price": 15.25,
+            "images": [
+                "https://pngimg.com/d/blueberries_PNG36.png",
+                "https://pngimg.com/d/blueberries_PNG21.png",
+                "https://pngimg.com/d/blueberries_PNG50.png"
+            ]
+        },
+        {
+            "name": "Pineapple",
+            "quantity": "1 L bottle",
+            "price": 22.00,
+            "images": [
+                "https://pngimg.com/d/pineapple_PNG95135.png",
+                "https://www.pngall.com/wp-content/uploads/2016/05/Pineapple-Free-Download-PNG.png",
+                "https://pngimg.com/d/pineapple_PNG2756.png"
+            ]
+        },
+        {
+            "name": "Grapes",
+            "quantity": "1 Dozen (12)",
+            "price": 5.99,
+            "images": [
+              "https://pngimg.com/d/grape_PNG2979.png",
+                "https://static.vecteezy.com/system/resources/previews/054/799/067/non_2x/fresh-green-grapes-with-leaves-isolated-on-a-transparent-background-showcasing-their-natural-shine-and-texture-green-grape-isolated-on-transparent-background-free-png.png"
+            ]
+        },
+        {
+            "name": "Mangoes",
+            "quantity": "200 g jar",
+            "price": 8.50,
+            "images": [
+                "https://pngimg.com/d/mango_PNG9165.png",
+                "https://static.vecteezy.com/system/resources/thumbnails/053/117/104/small/mango-health-advantages-png.png"
+            ]
+        },
+        {
+            "name": "Peaches",
+            "quantity": "400 g block",
+            "price": 12.95,
+            "images": [
+                "https://pngimg.com/d/peach_PNG4860.png",
+                "https://pngimg.com/d/peach_PNG4833.png"
+            ]
+        },
+        {
+            "name": "Oranges",
+            "quantity": "1 kg bag",
+            "price": 3.49,
+            "images": [
+             "https://www.dole.com/sites/default/files/styles/1024w768h-80/public/media/2025-01/oranges.png?itok=JCpr03ty-Zunh1d4I"  
+            ]
+        },
+        {
+            "name": "Watermelon",
+            "quantity": "1.5 kg",
+            "price": 35.00,
+            "images": [
+               "https://pngimg.com/uploads/watermelon/watermelon_PNG236.png"
+                 ]
+        }
+    ]
+}
